@@ -132,7 +132,4 @@ fin:
     int  20h             ;to close/halt the console
 
 
-end program                                                                                                 ;TEAM MEMBERS
-                                                                                                            
-                                                                                                            ;Rambabu S               (19pd26)
-                                                                                                            ;Thiruvenkata krishnan B (19pd39)  
+end program                                                                                               
